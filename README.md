@@ -1,2 +1,2 @@
 # hello-world
-Learning to use this thing
+Learning how to use this thing
